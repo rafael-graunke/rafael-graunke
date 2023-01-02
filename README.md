@@ -1,16 +1,14 @@
-### Hi there 👋
+### Olá 👋!
 
-<!--
-**rafael-graunke/rafael-graunke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é **Rafael Graunke**, sou estudante de informática e adoro programar!
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📚 Estudei no IFRS por 4 anos, onde aprendi sobre:
+  - HTML e CSS;
+  - Python;
+  - Java;
+  - PHP;
+  - MySQL;
+- 🚀 Já desenvolvi diversos projetos de aula utilizando NodeJS e React;
+- 🌱 Atualmente busco aprofundar meu conhecimento sobre Python;
+- 💼 Estou em busca de uma experiência profissional como desenvolvedor;
+- 📫 Para entrar em contato: rafael.graunke@outlook.com
