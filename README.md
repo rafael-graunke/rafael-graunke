@@ -74,7 +74,7 @@
 </details>
 
 ---
-<details>
+<details open>
   <summary>:us: English</summary>
   
   # Hi there<img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/gifs/wave.gif" />! I'm Rafael Graunke, welcome!
