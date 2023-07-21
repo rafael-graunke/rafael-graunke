@@ -53,7 +53,7 @@
 
   ## About me
 - 🎓 I graduated at IFRS in IT, where I learned Python, HTML, CSS, Java, PHP, MySQL;
-- 📚 I'm pursuing undergraduation in Computer Science on University of Caxias do Sul (UCS);
+- 📚 I'm a Computer Science undergradute at the University of Caxias do Sul (UCS);
 - 🚀 I currently work developing API's in Python using Django, as well as frontend development with React using Redux and Typescript;
 - ☁️ I attended training about AWS and cloud computing, which gave me a strong foundation on the matter;
 - 🌱 Currently learning more about Data Science and Machine Learning, and also Rust 🦀.
