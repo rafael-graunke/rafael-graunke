@@ -8,7 +8,7 @@
 - 📚 Atualmente estou cursando Ciência da Computação pela Universidade de Caxias do Sul (UCS);
 - 🚀 Atualmente trabalho com Python e Django desenvolvendo API's além de desenvolver frontend em React usando Redux e Typescript;
 - ☁️ Participei de um programa de especialização em AWS onde pude aprender muito sobre cloud;
-- 🌱 Atualmente busco aprofundar meu conhecimento sobre Data Science e Machine Learning, e Rust 😃⚙️;
+- 🌱 Atualmente busco aprofundar meu conhecimento sobre Data Science e Machine Learning, e Rust 🦀;
   
   <br></br>
   
@@ -56,7 +56,7 @@
 - 📚 I'm pursuing undergraduation in Computer Science on University of Caxias do Sul (UCS);
 - 🚀 I currently work developing API's in Python using Django, as well as frontend development with React using Redux and Typescript;
 - ☁️ I attended training about AWS and cloud computing, which gave me a strong foundation on the matter;
-- 🌱 Currently learning more about Data Science and Machine Learning, and also Rust 😃⚙️.
+- 🌱 Currently learning more about Data Science and Machine Learning, and also Rust 🦀.
   
   <br></br>
   
