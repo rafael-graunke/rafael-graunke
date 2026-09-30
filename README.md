@@ -10,12 +10,6 @@ hey 👋🇧🇷
 
 ---
 
-> "Which way I ought to go from here?"
-> 
-> "That depends a good deal on where you want to get to."
-> 
-> "I don't much care where—"
-> 
-> "Then it doesn't matter which way you go."
+> "If you don't know where you're going, it doesn't matter which way you go."
 > 
 > — Lewis Carroll, Alice's Adventures in Wonderland
