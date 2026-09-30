@@ -1,4 +1,3 @@
-```md
 hey 👋🇧🇷
 
 🔧 software engineer — backend and cloud by day.
@@ -16,4 +15,3 @@ hey 👋🇧🇷
 > "I don't much care where—"
 > "Then it doesn't matter which way you go."
 > — Lewis Carroll, Alice's Adventures in Wonderland
-```
